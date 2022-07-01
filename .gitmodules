@@ -1,0 +1,3 @@
+[submodule "nested"]
+	path = nested
+	url = git@github.com:MichaelVoelkel/vcs-test-nested.git
